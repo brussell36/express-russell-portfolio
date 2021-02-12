@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46e70997.chunk.css",
+    "main.js": "/static/js/main.307e4ea1.chunk.js",
+    "main.js.map": "/static/js/main.307e4ea1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6e6da7d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6e6da7d.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e87dce63.chunk.js": "/static/js/2.e87dce63.chunk.js",
+    "static/js/2.e87dce63.chunk.js.map": "/static/js/2.e87dce63.chunk.js.map",
+    "static/js/3.d89c018d.chunk.js": "/static/js/3.d89c018d.chunk.js",
+    "static/js/3.d89c018d.chunk.js.map": "/static/js/3.d89c018d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.46e70997.chunk.css.map": "/static/css/main.46e70997.chunk.css.map",
+    "static/js/2.e87dce63.chunk.js.LICENSE.txt": "/static/js/2.e87dce63.chunk.js.LICENSE.txt",
+    "static/media/ben-russell-portrait.1a7c508d.jpg": "/static/media/ben-russell-portrait.1a7c508d.jpg",
+    "static/media/blazers-pregame-page-cropped.8c3345da.png": "/static/media/blazers-pregame-page-cropped.8c3345da.png",
+    "static/media/blazers-pregame-page.1f1d654a.png": "/static/media/blazers-pregame-page.1f1d654a.png",
+    "static/media/damerow-ford-homepage-cropped.04234419.png": "/static/media/damerow-ford-homepage-cropped.04234419.png",
+    "static/media/damerow-ford-homepage.ccdac698.png": "/static/media/damerow-ford-homepage.ccdac698.png",
+    "static/media/garden-helper-gif.39a709a6.gif": "/static/media/garden-helper-gif.39a709a6.gif",
+    "static/media/garden-helper-homepage-cropped.fc27da19.png": "/static/media/garden-helper-homepage-cropped.fc27da19.png",
+    "static/media/garden-helper-homepage.adc3d648.png": "/static/media/garden-helper-homepage.adc3d648.png",
+    "static/media/mopop-modal-expanded.1d3681bf.png": "/static/media/mopop-modal-expanded.1d3681bf.png",
+    "static/media/mopop-modal-unexpanded-cropped.be5d2876.png": "/static/media/mopop-modal-unexpanded-cropped.be5d2876.png",
+    "static/media/mopop-modal-unexpanded.c30b2a5e.png": "/static/media/mopop-modal-unexpanded.c30b2a5e.png",
+    "static/media/theorem-employee-page.8e090a31.png": "/static/media/theorem-employee-page.8e090a31.png",
+    "static/media/tindog-cropped.5426cf4d.png": "/static/media/tindog-cropped.5426cf4d.png",
+    "static/media/tindog.d869fb06.png": "/static/media/tindog.d869fb06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e6da7d.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e87dce63.chunk.js",
+    "static/css/main.46e70997.chunk.css",
+    "static/js/main.307e4ea1.chunk.js"
+  ]
+}
